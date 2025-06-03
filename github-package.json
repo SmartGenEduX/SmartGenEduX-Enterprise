@@ -1,0 +1,15 @@
+{
+  "name": "smartgenedux-enterprise",
+  "version": "1.0.0",
+  "description": "SmartGenEduX Enterprise School Management Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Static site ready'"
+  },
+  "keywords": ["education", "school-management", "msme", "whatsapp-integration"],
+  "author": "SmartGenEduX Enterprise",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
